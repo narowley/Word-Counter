@@ -1,0 +1,1 @@
+This is just a test. When used in the word counter, it should return 15
